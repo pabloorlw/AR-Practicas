@@ -1,2 +1,2 @@
 # AR-Practicas
-Design and implementation of two networks that use OSPF and RIP protocols using Cisco Packet Tracer.
+Design and implementation in Cisco Packet Tracer of two networks that use OSPF and RIP protocols.
